@@ -1,0 +1,51 @@
+2020-06-10T18:15:41.959Z [my-bank-api] info: API Started!
+2020-06-10T18:15:51.981Z [my-bank-api] info: API Started!
+2020-06-10T18:19:44.800Z [my-bank-api] info: API Started!
+2020-06-10T18:19:51.097Z [my-bank-api] info: API Started!
+2020-06-10T18:20:04.752Z [my-bank-api] info: API Started!
+2020-06-10T18:20:22.578Z [my-bank-api] info: API Started!
+2020-06-10T18:20:32.709Z [my-bank-api] info: API Started!
+2020-06-10T18:20:59.572Z [my-bank-api] info: API Started!
+2020-06-10T18:23:57.532Z [my-bank-api] info: POST /account - {"id":7,"name":"Moema só bandido","balance":111}
+2020-06-10T18:32:10.136Z [my-bank-api] info: API Started!
+2020-06-10T18:32:52.412Z [my-bank-api] info: API Started!
+2020-06-10T18:33:01.024Z [my-bank-api] info: API Started!
+2020-06-10T18:33:17.974Z [my-bank-api] info: API Started!
+2020-06-10T18:34:05.886Z [my-bank-api] info: API Started!
+2020-06-10T18:34:18.617Z [my-bank-api] info: API Started!
+2020-06-10T18:34:24.532Z [my-bank-api] info: API Started!
+2020-06-10T18:35:39.123Z [my-bank-api] info: API Started!
+2020-06-10T18:36:01.481Z [my-bank-api] info: API Started!
+2020-06-10T18:39:24.875Z [my-bank-api] info: API Started!
+2020-06-10T18:44:22.418Z [my-bank-api] info: API Started!
+2020-06-10T18:45:41.206Z [my-bank-api] info: API Started!
+2020-06-10T18:46:09.444Z [my-bank-api] info: GET /account
+2020-06-10T18:46:14.931Z [my-bank-api] info: POST /account - {"id":8,"name":"Moema só bandido","balance":111}
+2020-06-10T18:46:29.963Z [my-bank-api] info: DELETE /account 2
+2020-06-10T18:46:37.345Z [my-bank-api] info: PUT /account {"netxId":9,"accounts":[{"id":3,"name":"Alyne Isabella","balance":800},{"id":4,"name":"Nair Fonseca","balance":5500},{"id":5,"name":"Nair Fonseca","balance":5500},{"id":7,"name":"Moema só bandido","balance":111},{"id":8,"name":"Moema só bandido","balance":111}]}
+2020-06-10T18:47:08.054Z [my-bank-api] info: API Started!
+2020-06-10T18:47:10.101Z [my-bank-api] info: PUT /account {"id":2,"name":"Juares","balance":1}
+2020-06-10T18:48:36.436Z [my-bank-api] info: API Started!
+2020-06-10T18:48:38.856Z [my-bank-api] error: POST /account/deposit - Cannot read property 'balance' of undefined
+2020-06-10T18:49:40.012Z [my-bank-api] info: API Started!
+2020-06-10T18:49:42.025Z [my-bank-api] error: POST /account/deposit - Cannot read property 'value' of undefined
+2020-06-10T18:51:31.269Z [my-bank-api] info: API Started!
+2020-06-10T18:55:35.153Z [my-bank-api] info: API Started!
+2020-06-10T18:55:55.005Z [my-bank-api] info: API Started!
+2020-06-10T18:55:57.368Z [my-bank-api] error: POST /account/transaction - Não há saldo suficiente!
+2020-06-11T13:08:26.206Z [my-bank-api] info: API Started!
+2020-06-11T13:19:45.147Z [my-bank-api] info: API Started!
+2020-06-11T13:20:12.670Z [my-bank-api] info: GET /account
+2020-06-11T13:20:24.137Z [my-bank-api] info: PUT /account {"id":2,"name":"Ronaldo","balance":1}
+2020-06-11T13:20:26.243Z [my-bank-api] info: GET /account
+2020-06-11T13:20:41.040Z [my-bank-api] info: PUT /account {"id":3,"name":"Ronaldo","balance":1}
+2020-06-11T13:20:43.240Z [my-bank-api] info: GET /account
+2020-10-21T16:05:18.634Z [my-bank-api] info: API Started!
+2020-10-21T16:18:07.376Z [my-bank-api] info: POST /account - {"id":9,"name":"Fallen","balance":50000}
+2020-10-21T16:18:20.131Z [my-bank-api] info: API Started!
+2020-10-21T16:18:23.985Z [my-bank-api] info: POST /account - {"id":10,"name":"Fallen","balance":50000}
+2020-10-21T16:20:45.832Z [my-bank-api] info: GET /account
+2020-10-21T16:22:28.755Z [my-bank-api] info: GET /account {"id":4,"name":"Nair Fonseca","balance":5500}
+2020-10-21T16:22:31.772Z [my-bank-api] info: GET /account {"id":5,"name":"Nair Fonseca","balance":5500}
+2020-10-21T16:22:34.646Z [my-bank-api] info: GET /account {"id":10,"name":"Fallen","balance":50000}
+2020-10-21T16:22:48.482Z [my-bank-api] info: GET /account {"id":5,"name":"Nair Fonseca","balance":5500}
